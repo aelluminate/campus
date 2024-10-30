@@ -30,7 +30,7 @@ export default function RootLayout({
           <SideNav />
           <div className="flex h-full flex-grow flex-col">
             <Breadcrumbs />
-            <div className="relative h-full flex-grow overflow-auto">
+            <div className="relative h-full flex-grow overflow-auto transition-all duration-300 ease-in-out">
               {children}
               <Footer />
             </div>

@@ -10,7 +10,7 @@ import { getOrdinalSuffix } from "@/helpers/get-ordinal-suffix"
 export default function StudentsPage() {
   return (
     <main className="w-full flex-grow p-4">
-      <div className="mx-auto flex h-full w-full max-w-3xl flex-col gap-8">
+      <div className="mx-auto flex w-full max-w-3xl flex-col gap-8">
         <HeroWidthImage src="https://i.imgur.com/lD348Ec.png" alt="hero" />
         <div className="flex flex-col items-start gap-4">
           <div className="flex flex-col items-start gap-1">

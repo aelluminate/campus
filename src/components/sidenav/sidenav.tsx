@@ -10,13 +10,13 @@ export default function SideNav() {
   const sections: string[] = Object.keys(typedSideNavMenu)
 
   return (
-    <div className="group relative z-50 h-full flex-shrink-0 border-r border-neutral-800 bg-neutral-800/25 bg-neutral-900 p-4 font-light text-slate-500 transition-all duration-300 ease-in-out">
+    <div className="relative z-50 flex h-full w-fit flex-shrink-0 flex-col gap-4 border-r border-neutral-800 bg-neutral-900 p-2 font-light text-slate-500">
       <SideNavHeader />
-      <div className="flex w-fit flex-col items-center space-y-4 group-hover:w-fit group-hover:items-start">
+      <div className="flex flex-grow flex-col items-center">
         {sections.map((section, index) => (
           <div key={section} className="w-full">
             {index > 0 && <hr className="border-0.5 mb-4 w-full border-neutral-800/50" />}
-            <ul className="flex w-full flex-col gap-4">
+            <ul className="flex w-full flex-col gap-2">
               {typedSideNavMenu[section].map((item: SideNavItemType) => {
                 return (
                   <SideNavItem

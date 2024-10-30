@@ -15,7 +15,7 @@ export const metadata: Metadata = SiteMetadata
 /* Components */
 import { SideNav } from "@/components/sidenav/_index"
 import { Footer } from "@/components/footer/_index"
-import Breadcrumbs from "@/components/breadcrums"
+import Breadcrumbs from "@/components/others/breadcrums"
 
 export default function RootLayout({
   children,
@@ -24,10 +24,8 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={[lora.variable, lexendDeca.variable].join(" ")}>
-      <body
-        className={`bg-neutral-900 font-lexend-deca font-light tracking-tight text-slate-50 antialiased`}
-      >
-        <NextTopLoader showSpinner={false} color="#F9E400" easing="ease" />
+      <body className={`bg-neutral-900 font-lexend-deca font-light text-slate-50 antialiased`}>
+        <NextTopLoader showSpinner={false} color="#eefeff" easing="ease" />
         <div className="flex h-screen">
           <SideNav />
           <div className="flex h-full flex-grow flex-col">

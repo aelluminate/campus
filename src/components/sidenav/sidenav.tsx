@@ -1,6 +1,6 @@
 import SideNavHeader from "./header"
 import SideNavItem from "./item"
-import sideNavMenu from "../../data/menu/sidenav.json"
+import sideNavMenu from "../../data/sidenav.json"
 import * as LucideIcons from "lucide-react"
 import { SideNavMenuType, SideNavItemType } from "@/types/sidenav"
 
@@ -18,11 +18,13 @@ export default function SideNav() {
             {index > 0 && <hr className="border-0.5 mb-4 w-full border-neutral-800/50" />}
             <ul className="flex w-full flex-col gap-4">
               {typedSideNavMenu[section].map((item: SideNavItemType) => {
-                const Icon = LucideIcons[
-                  item.icon as keyof typeof LucideIcons
-                ] as LucideIcons.LucideIcon
                 return (
-                  <SideNavItem key={item.label} href={item.url} icon={Icon} label={item.label} />
+                  <SideNavItem
+                    key={item.label}
+                    href={item.url}
+                    icon={item.icon as keyof typeof LucideIcons}
+                    label={item.label}
+                  />
                 )
               })}
             </ul>

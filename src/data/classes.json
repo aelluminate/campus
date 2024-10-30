@@ -1,0 +1,34 @@
+{
+  "class": [
+    {
+      "name": "Python",
+      "icon": "Code",
+      "description": "We mold you to become a Python expert providing the best Python training in the industry.",
+      "enrollURL": ""
+    },
+    {
+      "name": "JavaScript",
+      "icon": "Code",
+      "description": "Building web applications using JavaScript, HTML, and CSS.",
+      "enrollURL": ""
+    },
+    {
+      "name": "Django Rest Framework",
+      "icon": "Code",
+      "description": "Teach students how to build a RESTful API using Django Rest Framework.",
+      "enrollURL": ""
+    },
+    {
+      "name": "Full Stack Development",
+      "icon": "Code",
+      "description": "Preparing students to become a full stack developer using Django, React, and other technologies.",
+      "enrollURL": ""
+    },
+    {
+      "name": "Introduction to Data Science",
+      "icon": "TestTubeDiagonal",
+      "description": "Introducing students how to clean, analyze, and visualize data using Python.",
+      "enrollURL": ""
+    }
+  ]
+}

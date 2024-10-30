@@ -1,8 +1,8 @@
-import { LucideIcon } from "lucide-react"
+import * as LucideIcons from "lucide-react"
 
 export interface SideNavItemProps {
   href: string
-  icon: LucideIcon
+  icon: keyof typeof LucideIcons
   label: string
 }
 

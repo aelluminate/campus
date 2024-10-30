@@ -16,3 +16,8 @@ export interface SideNavItemType {
 export interface SideNavMenuType {
   [key: string]: SideNavItemType[]
 }
+
+export interface MobileNavItemProps {
+  url: string
+  icon: keyof typeof LucideIcons
+}

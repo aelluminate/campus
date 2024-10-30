@@ -17,8 +17,12 @@ export default function SmallProfileCard({
     <div className="relative flex w-full flex-row items-center gap-2 rounded-md border border-neutral-700 p-2">
       {isAelluminateVerified && (
         <div className="absolute right-0 top-0 h-full w-full overflow-hidden">
-          <ToolTip content="Aelluminate Verified!" placement="top">
-            <div className="absolute -right-10 top-2 h-3 w-24 rotate-45 transform cursor-pointer bg-neutral-700"></div>
+          <ToolTip content="Aelluminate Verified!" placement="top" offset={-20}>
+            <div className="absolute -right-10 top-2 h-3 w-24 rotate-45 transform cursor-pointer bg-neutral-700">
+              <div className="flex h-full w-full flex-row items-center justify-center text-xs text-neutral-400">
+                verified
+              </div>
+            </div>
           </ToolTip>
         </div>
       )}

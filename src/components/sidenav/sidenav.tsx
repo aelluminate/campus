@@ -1,22 +1,22 @@
 import SideNavHeader from "./header"
 import SideNavItem from "./item"
-import sideNavMenu from "../../data/sidenav.json"
+import sideNavMenu from "../../data/menu.json"
 import * as LucideIcons from "lucide-react"
-import { SideNavMenuType, SideNavItemType } from "@/types/sidenav"
+import { SideNavMenuType, SideNavItemType } from "@/types/menu"
 
-const typedSideNavMenu: SideNavMenuType = sideNavMenu.sideNavMenu
+const typedSideNavMenu: SideNavMenuType = sideNavMenu.menu.sideNav
 
 export default function SideNav() {
   const sections: string[] = Object.keys(typedSideNavMenu)
 
   return (
-    <div className="group relative z-50 h-full flex-shrink-0 border-r border-neutral-800 bg-neutral-800/25 bg-neutral-900 p-4 font-light text-slate-500 transition-all duration-300 ease-in-out">
+    <div className="relative z-50 hidden h-full w-fit flex-shrink-0 flex-col gap-4 border-r border-neutral-800 bg-neutral-900 p-2 font-light text-slate-500 md:flex lg:flex">
       <SideNavHeader />
-      <div className="flex w-fit flex-col items-center space-y-4 group-hover:w-fit group-hover:items-start">
+      <div className="flex flex-grow flex-col items-center">
         {sections.map((section, index) => (
           <div key={section} className="w-full">
             {index > 0 && <hr className="border-0.5 mb-4 w-full border-neutral-800/50" />}
-            <ul className="flex w-full flex-col gap-4">
+            <ul className="flex w-full flex-col gap-2">
               {typedSideNavMenu[section].map((item: SideNavItemType) => {
                 return (
                   <SideNavItem

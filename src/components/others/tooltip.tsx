@@ -1,7 +1,7 @@
 import { Tooltip as NextUITooltip } from "@nextui-org/tooltip"
 import { TooltipProps } from "@/types/tooltip"
 
-export default function Tooltip({ content, placement = "top", children }: TooltipProps) {
+export default function Tooltip({ content, placement, children, offset }: TooltipProps) {
   return (
     <NextUITooltip
       content={content}
@@ -11,7 +11,7 @@ export default function Tooltip({ content, placement = "top", children }: Toolti
       }}
       delay={100}
       closeDelay={100}
-      offset={-20}
+      offset={offset}
     >
       {children}
     </NextUITooltip>

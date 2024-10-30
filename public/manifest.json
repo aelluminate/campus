@@ -1,0 +1,42 @@
+{
+  "name": "Aelluminate Campus",
+  "short_name": "Aelluminate Campus",
+  "description": "Join our community to build the next big thing in tech and be part of the future of computer engineering.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#171717",
+  "theme_color": "#171717",
+  "icons": [
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["business"],
+  "related_applications": [
+    {
+      "platform": "web",
+      "url": "https://campus.aelluminate.com",
+      "id": "https://campus.aelluminate.com"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://campus.aelluminate.com/og.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "label": "Aelluminate Camus Open Graph Image"
+    }
+  ]
+}

@@ -13,5 +13,15 @@ export interface PassiveCardProps {
   icon: keyof typeof LucideIcons
   name: string
   description: string
-  enrollURL: string
+  link: string
+}
+
+export interface ActiveCardProps {
+  name: string
+  description: string
+  link: string
+  contributors: {
+    name: string
+    link: string
+  }[]
 }

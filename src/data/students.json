@@ -1,0 +1,382 @@
+{
+  "students": [
+    {
+      "name": "Bagsic, Cyrel Mhel Calibo",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Beltran, Marc Joshua Calaqui",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Bognot, Sean Rylle Maninang",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Bunag, Mike Fernando Dimacali",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Cabigting, Gian John Elijah Diaz",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": true,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Canlas, Rafael Luis Lingat",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Cano, Danise Emerlyn Bingcang",
+      "yearLevel": 4,
+      "gender": "F",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Cruz, Joaquin Paolo Pablo",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Del Rosario, Hans Lawrence Reyes",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Dela Cruz, Mitch Morales",
+      "yearLevel": 4,
+      "gender": "F",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Dizon, Rafael Roy David",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Dizon, Steven Louie Dejesus",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Generoso, Mark Railey Yutuc",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Manalastas, John Paul Cataquian",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Mendez, Manuel Jr. Estrella",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Miclat, Arwin Gerard Yabut",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Oppus, Angelo Rr Fernando Parinas",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Patricio, John Hendrix Gutierrez",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Perez, Julianna Bondoc",
+      "yearLevel": 4,
+      "gender": "F",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Pineda, Alaica Gonzales",
+      "yearLevel": 4,
+      "gender": "F",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Reyes, Jose III Tayag",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Reyes, Justin Miguel Beltran",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": true,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Sabile, Rafael Enrique Tolosa",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Salvador, Rikshawn Danille Villador",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Samson, Russel Ian Gamboa",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Sanchez, Jaz Karmela Ann Flores",
+      "yearLevel": 4,
+      "gender": "F",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Sarmiento, Kiyoharu",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Tayag, Rijel Siron",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Velasquez, Enrico Miguel Laude",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Yumul, Jainie Angel Jhem Manguerra",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Bagsic, Jerald Francis Santillan",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Cataquian, Ivan Joshua Damian",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "David, Brienne Khayla Canlas",
+      "yearLevel": 4,
+      "gender": "F",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "David, Ron Lorenz Lois Gundran",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Deocareza, Dean Irish Pecson",
+      "yearLevel": 4,
+      "gender": "F",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Dizon, John Ivan David",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Flores, Zack Russell Avila",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Gana, Darren Uzziel Tanglao",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Gomez, Askelon Lupines",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Guevarra, Martin Joseph Garcia",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Henson, Francis Luis Briones",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Lising , Justine Napo",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Mallari, Justin Guinto",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Manalese, Mark Lorenz Yabut",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Ordiales, Barlo Rodriguez",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Pineda, Arlo Miguel De Guzman",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Pingol, Justin Angelo Gulapa",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Raganit, Gabriel Claudio",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Reyes, Marck Jhoven Cruz",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Reyes, Mark Jayson",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Soriano, Peter James Quizon",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Tuazon, Kyle Angelo Ocampo",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Visda, Edrick Justine Barredo",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    },
+    {
+      "name": "Vital, Bryan Carlo De Guzman",
+      "yearLevel": 4,
+      "gender": "M",
+      "isAelluminateVerified": false,
+      "profileImgURL": ""
+    }
+  ]
+}

@@ -1,7 +1,10 @@
 import Link from "next/link"
+import * as LucideIcons from "lucide-react"
 import { SideNavItemProps } from "@/types/sidenav"
 
-export default function SideNavItem({ href, icon: Icon, label }: SideNavItemProps) {
+export default function SideNavItem({ href, icon, label }: SideNavItemProps) {
+  const Icon = LucideIcons[icon as keyof typeof LucideIcons] as LucideIcons.LucideIcon
+
   return (
     <li className="flex w-full gap-1 rounded-md hover:text-neutral-50">
       <Link href={href} className="w-full">

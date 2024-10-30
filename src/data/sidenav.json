@@ -2,9 +2,9 @@
   "sideNavMenu": {
     "menu": [
       {
-        "label": "Lectures",
-        "icon": "LibraryBig",
-        "url": "/lectures",
+        "label": "Home",
+        "icon": "Home",
+        "url": "/",
         "isRedirect": false
       },
       {
@@ -15,8 +15,14 @@
       },
       {
         "label": "Students",
-        "icon": "GraduationCap",
+        "icon": "UsersRound",
         "url": "/students",
+        "isRedirect": false
+      },
+      {
+        "label": "Lectures",
+        "icon": "BookCopy",
+        "url": "/lectures",
         "isRedirect": false
       }
     ]

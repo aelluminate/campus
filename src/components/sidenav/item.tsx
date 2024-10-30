@@ -4,7 +4,7 @@ import Link from "next/link"
 import { ToolTip } from "../others/_index"
 import { usePathname } from "next/navigation"
 import * as LucideIcons from "lucide-react"
-import { SideNavItemProps } from "@/types/sidenav"
+import { SideNavItemProps } from "@/types/menu"
 
 export default function SideNavItem({ href, icon, label }: SideNavItemProps) {
   const pathname = usePathname()

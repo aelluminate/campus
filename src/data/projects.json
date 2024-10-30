@@ -1,0 +1,95 @@
+{
+  "projects": {
+    "featuredProjects": [
+      {
+        "name": "AI Travel Planner + Booking",
+        "description": "It personalizes your itinerary based on preferences and seamlessly integrates booking through the same platform. Explore new destinations, create the perfect trip, and book everything in one place!",
+        "link": "https://github.com/aelluminate-campus/ai-travel-planner-booking",
+        "contributions": [
+          {
+            "name": "Mendez, Manuel Jr. Estrella",
+            "link": ""
+          },
+          {
+            "name": "Bognot, Sean Rylle Maninang",
+            "link": ""
+          },
+          {
+            "name": "Dizon, Steven Louie Dejesus",
+            "link": ""
+          },
+          {
+            "name": "Tayag, Rijel Siron",
+            "link": ""
+          },
+          {
+            "name": "Manalastas, John Paul Cataquian",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "name": "Job Listing Platform",
+        "description": "It is a platform that connects job seekers and employers. It provides a user-friendly interface for job seekers to search for job listings and for employers to post job listings.",
+        "link": "https://github.com/aelluminate-campus/job-listing-platform",
+        "contributions": [
+          {
+            "name": "Cabigting, Gian John Elijah Diaz",
+            "link": ""
+          },
+          {
+            "name": "David, Brienne Khayla Canlas",
+            "link": ""
+          },
+          {
+            "name": "Beltran, Marc Joshua Calaqui",
+            "link": ""
+          },
+          {
+            "name": "Sanchez, Jaz Karmela Ann Flores",
+            "link": ""
+          },
+          {
+            "name": "Miclat, Arwin Gerard Yabut",
+            "link": ""
+          },
+          {
+            "name": "Reyes, Justin Miguel Beltran",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "name": "AI Quiz Generator",
+        "description": "It is a platform that generates quizzes based on the user's preferences. It provides a user-friendly interface for users to generate quizzes and for teachers to create quizzes.",
+        "link": "https://github.com/aelluminate-campus/ai-quiz-generator",
+        "contributions": [
+          {
+            "name": "Dizon, Rafael Roy David",
+            "link": ""
+          },
+          {
+            "name": "Samson, Russel Ian Gamboa",
+            "link": ""
+          },
+          {
+            "name": "Sabile, Rafael Enrique Tolosa",
+            "link": ""
+          },
+          {
+            "name": "Oppus, Angelo Rr Fernando Parinas",
+            "link": ""
+          },
+          {
+            "name": "Yumul, Jainie Angel Jhem Manguerra",
+            "link": ""
+          },
+          {
+            "name": "Pingol, Justin Angelo Gulapa",
+            "link": ""
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -16,6 +16,7 @@ export const metadata: Metadata = SiteMetadata
 import { SideNav } from "@/components/sidenav/_index"
 import { Footer } from "@/components/footer/_index"
 import Breadcrumbs from "@/components/others/breadcrums"
+import MobileMenu from "@/components/mobile/nav/menu"
 
 export default function RootLayout({
   children,
@@ -36,6 +37,7 @@ export default function RootLayout({
             </div>
           </div>
         </div>
+        <MobileMenu />
       </body>
     </html>
   )

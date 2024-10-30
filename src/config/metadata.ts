@@ -8,23 +8,23 @@ export const metadata: Metadata = {
     template: "%s | Aelluminate Campus",
   },
   keywords: keywords,
-  manifest: "https://aelluminate.com/manifest.json",
+  manifest: "https://campus.aelluminate.com/manifest.json",
   generator: "Aelluminate Campus",
   applicationName: "Aelluminate Campus",
   description:
     "Join our community to build the next big thing in tech and be part of the future of computer engineering.",
   openGraph: {
-    title: "Aelluminate Campus • Shaping the next generation of computer engineers",
+    title: "Aelluminate Campus • Together, we will craete the engineers of tomorrow.",
     description:
       "Join our community to build the next big thing in tech and be part of the future of computer engineering.",
-    url: "https://aelluminate.com",
-    siteName: "Aelluminate",
+    url: "https://campus.aelluminate.com",
+    siteName: "Aelluminate Campus",
     images: [
       {
-        url: "https://aelluminate.com/og.png",
+        url: "https://campus.aelluminate.com/og.png",
         width: 1920,
         height: 1080,
-        alt: "Aelluminate Open Graph Image",
+        alt: "Aelluminate Campus Open Graph Image",
       },
     ],
     locale: "en-US",
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "Aelluminate",
+    title: "Aelluminate Campus",
     card: "summary_large_image",
     site: "@aelluminate",
     creator: "@aelluminate",
@@ -51,10 +51,10 @@ export const metadata: Metadata = {
       "Join our community to build the next big thing in tech and be part of the future of computer engineering.",
     images: [
       {
-        url: "https://aelluminate.com/og.png",
+        url: "https://campus.aelluminate.com/og.png",
         width: 1920,
         height: 1080,
-        alt: "Aelluminate Open Graph Image",
+        alt: "Aelluminate Campus Open Graph Image",
       },
     ],
   },
@@ -67,7 +67,7 @@ export const metadata: Metadata = {
     ],
   },
   alternates: {
-    canonical: "https://aelluminate.com",
+    canonical: "https://campus.aelluminate.com",
     languages: {},
   },
   verification: {
@@ -77,9 +77,9 @@ export const metadata: Metadata = {
   },
   appLinks: {
     web: {
-      url: "https://aelluminate.com",
+      url: "https://campus.aelluminate.com",
       should_fallback: true,
     },
   },
-  category: "business",
+  category: "education",
 }

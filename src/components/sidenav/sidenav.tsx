@@ -1,16 +1,16 @@
 import SideNavHeader from "./header"
 import SideNavItem from "./item"
-import sideNavMenu from "../../data/sidenav.json"
+import sideNavMenu from "../../data/menu.json"
 import * as LucideIcons from "lucide-react"
-import { SideNavMenuType, SideNavItemType } from "@/types/sidenav"
+import { SideNavMenuType, SideNavItemType } from "@/types/menu"
 
-const typedSideNavMenu: SideNavMenuType = sideNavMenu.sideNavMenu
+const typedSideNavMenu: SideNavMenuType = sideNavMenu.menu.sideNav
 
 export default function SideNav() {
   const sections: string[] = Object.keys(typedSideNavMenu)
 
   return (
-    <div className="relative z-50 flex h-full w-fit flex-shrink-0 flex-col gap-4 border-r border-neutral-800 bg-neutral-900 p-2 font-light text-slate-500">
+    <div className="relative z-50 hidden h-full w-fit flex-shrink-0 flex-col gap-4 border-r border-neutral-800 bg-neutral-900 p-2 font-light text-slate-500 md:flex lg:flex">
       <SideNavHeader />
       <div className="flex flex-grow flex-col items-center">
         {sections.map((section, index) => (

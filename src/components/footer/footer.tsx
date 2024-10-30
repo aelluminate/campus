@@ -26,9 +26,9 @@ export default function Footer() {
   ]
 
   return (
-    <footer className="z-20 flex w-full justify-center gap-4 bg-neutral-900 p-8 text-slate-50">
+    <footer className="z-20 flex w-full justify-center gap-4 bg-neutral-900 p-8 pb-24 text-slate-50 md:pb-0 lg:pb-0">
       <div className="flex w-full max-w-xl flex-col items-center justify-between gap-4 md:flex-row lg:flex-row">
-        <div className="order-2 text-sm md:order-1 lg:order-1">
+        <div className="order-2 text-xs md:order-1 md:text-sm lg:order-1 lg:text-sm">
           &copy; {currentYear} Aelluminate. All Rights Reserved.
         </div>
         <ul className="order-1 flex flex-row items-center justify-center gap-4 text-slate-400 md:order-2 lg:order-2">

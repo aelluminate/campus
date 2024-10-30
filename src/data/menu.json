@@ -1,0 +1,58 @@
+{
+  "menu": {
+    "sideNav": {
+      "main": [
+        {
+          "label": "Home",
+          "icon": "Home",
+          "url": "/",
+          "isRedirect": false
+        },
+        {
+          "label": "Projects",
+          "icon": "Component",
+          "url": "/projects",
+          "isRedirect": false
+        },
+        {
+          "label": "Students",
+          "icon": "UsersRound",
+          "url": "/students",
+          "isRedirect": false
+        },
+        {
+          "label": "Lectures",
+          "icon": "BookCopy",
+          "url": "/lectures",
+          "isRedirect": false
+        }
+      ]
+    },
+    "mobileNav": [
+      {
+        "label": "Home",
+        "icon": "Home",
+        "url": "/",
+        "isRedirect": false
+      },
+      {
+        "label": "Projects",
+        "icon": "Component",
+        "url": "/projects",
+        "isRedirect": false
+      },
+      {
+        "label": "Students",
+        "icon": "UsersRound",
+        "url": "/students",
+        "isRedirect": false
+      },
+      {
+        "label": "Lectures",
+        "icon": "BookCopy",
+        "url": "/lectures",
+        "isRedirect": false
+      }
+    ]
+  }
+}
